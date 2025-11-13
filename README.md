@@ -1,7 +1,7 @@
 # TMDB Proxy - Cloudflare Workers 版本 AI杰作
 
 部署好绑定自己域名后
-记得在MP高级设置-添加上去 xx.org  与网络安全域名也需要添加上去
+记得在MP高级设置-添加上去 xx.org  与网络-安全域名立面 也需要添加上去
 
 <img width="1399" height="354" alt="image" src="https://github.com/user-attachments/assets/283f5dc8-b977-4597-bc9f-6a8abb01cdfa" />
 
