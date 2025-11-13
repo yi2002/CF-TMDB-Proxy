@@ -1,4 +1,10 @@
-# TMDB Proxy - Cloudflare Workers 版本
+# TMDB Proxy - Cloudflare Workers 版本 AI杰作
+
+部署好绑定自己域名后
+记得在MP高级设置-添加上去 xx.org  与网络安全域名也需要添加上去
+
+<img width="1399" height="354" alt="image" src="https://github.com/user-attachments/assets/283f5dc8-b977-4597-bc9f-6a8abb01cdfa" />
+
 
 🎬 基于 Cloudflare Workers 的 TMDB (The Movie Database) 代理服务，提供图片和 API 代理功能，具备安全伪装、智能缓存和全球 CDN 加速。
 
