@@ -30,11 +30,13 @@
 3. 如下图<img width="2808" height="628" alt="image" src="https://github.com/user-attachments/assets/dbac6a29-3c9e-45c2-adff-a94608b1af60" />
    - 点击 "创建应用"
    - 输入服务名称（如：`tmdb-proxy`）
-   - 选择 "HTTP handler" 模板
+   - 选择 "从 Hello World! 开始" 模板
+   - 部署
 
 4. **部署代码**
+5. - 编辑代码
    - 将 `worker.js` 的内容复制到编辑器中
-   - 点击 "Save and Deploy"
+   - 点击 "部署"
 
 ### 方法2: Wrangler CLI
 
