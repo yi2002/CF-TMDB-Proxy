@@ -251,7 +251,7 @@ function getFake404HTML() {
         <div class="error-details">
             <strong>Error Details:</strong><br>
             • Request Method: GET<br>
-            • Request URL: ${new Date()。toISOString()。split('T')[0]}<br>
+            • Request URL: ${new Date().toISOString().split('T')[0]}<br>
             • Server: Cloudflare Workers<br>
             • Timestamp: ${new Date().toISOString()}
         </div>
