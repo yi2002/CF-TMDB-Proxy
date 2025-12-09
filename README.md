@@ -72,7 +72,7 @@ wrangler deploy
 - `wrangler.toml` - Wrangler 配置文件
 - `package.json` - 项目配置文件
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/qqcomeup/cf-tmdb)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/yi2002/CF-TMDB-Proxy)
 
 如果遇到 "找不到 wrangler.toml 文件" 的错误，请先将本项目的所有文件上传到你的 GitHub 仓库。
 
